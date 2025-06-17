@@ -1,5 +1,5 @@
 {
-    "description": "TouchCursor: Space + J/K/I/L for Arrows, P/M for Delete, S for Escape, U for Home, O for End",
+    "description": "TouchCursor: Space + J/K/I/L for Arrows, P/M for Delete, S for Escape, U for Home, O for End, H for Return",
     "manipulators": [
         {
             "from": {
